@@ -41,7 +41,7 @@ pip install qrcode
 ```bash
 
 ```
-
+https://github.com/codertheashish/Qr_code.git
 ---
 
 ## ▶️ How to Use
