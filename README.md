@@ -39,9 +39,9 @@ pip install qrcode
 3️⃣Clone the project:
 
 ```bash
-
-```
 https://github.com/codertheashish/Qr_code.git
+```
+
 ---
 
 ## ▶️ How to Use
