@@ -36,6 +36,12 @@ pip install qrcode
 
 2️⃣ Download the script from your project folder.
 
+3️⃣Clone the project:
+
+```bash
+
+```
+
 ---
 
 ## ▶️ How to Use
